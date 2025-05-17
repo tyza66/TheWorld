@@ -5,6 +5,7 @@
 
 - https://radiocast.co/
 - http://radio.666scly.com/
+- https://radio.garden/
 
 #### 二、电视
 
